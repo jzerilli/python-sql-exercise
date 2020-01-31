@@ -7,7 +7,7 @@ This repository includes
 Packages used:
 - requests to get the url
 - beautifulsoup to parse the html
-- regex to clean up strings from the tabe
-- psycopg2 to insert data to a postgres database
+- regex to clean up strings from the html table
+- psycopg2 to insert data to a postgres table
 
 
